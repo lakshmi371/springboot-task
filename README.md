@@ -18,7 +18,7 @@
   Note :- 
 1.	Implement with java8  features like streams, method reference, optional
 2.	Please create separate folder for controller, model, repository, service and for exception
-3.	Please share the github url once done.
+3. 3.	Please share the github url once done.
  
 
  
